@@ -1,5 +1,5 @@
 <h1 align="center">
-Ignite Fleet
+Fleet Management App
 </h1>
 
 <p align="center">Aplicativo de gestão de uso de veículos, com registros de saída e chegada e exibição de mapas.</p>
@@ -26,8 +26,8 @@ Ignite Fleet
 
 ## Como iniciar a aplicação localmente
 
-1. Clone este repositório usando `git clone git@github.com:MatheusVGoncalves/ignitefleet.git`;
-2. Acesse a pasta do arquivo: `cd ignitefleet`;<br />
+1. Clone este repositório usando `git clone git@github.com:MatheusVGoncalves/fleet-management-app.git`;
+2. Acesse a pasta do arquivo: `cd fleet-management-app`;<br />
 3. No terminal, digitar o comando: `npm i` para instalar as dependências da aplicação;
 4. Rode o comando: `npx expo start` ou `npx expo run:android` para iniciar a aplicação;
 5. Acesse o Expo em seu dispositivo móvel físico ou em um emulador.
@@ -36,4 +36,4 @@ Ignite Fleet
 
 # DEMONSTRAÇÃO
 
-<video src="https://user-images.githubusercontent.com/100327745/214975618-8f75f886-e764-49ca-997b-a233cac60a33.webm" align="center" width="100%" autoplay loop muted markdown="1"/>
+<video src="https://github.com/MatheusVGoncalves/fleet-management-app/assets/97061067/ffbc1308-a730-4835-a5cf-6ea5dd24ced7" align="center" width="100%" autoplay loop muted markdown="1"/>
